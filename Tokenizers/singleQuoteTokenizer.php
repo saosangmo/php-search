@@ -1,7 +1,7 @@
 <?php
 
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 
 class singleQuoteTokenizer implements TokenizerInterface
