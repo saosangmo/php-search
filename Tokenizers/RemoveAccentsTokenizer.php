@@ -1,7 +1,7 @@
 <?php
 
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 
 class RemoveAccentsTokenizer implements TokenizerInterface
