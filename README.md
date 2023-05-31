@@ -29,7 +29,7 @@ The search engine is packaged with an example schema that allow you to take hand
 at first you need to load the search engine.
 
 ```php
-use VFou\Search\Engine;
+use saosangmo\Search\Engine;
 
 $engine = new Engine();
 ```
