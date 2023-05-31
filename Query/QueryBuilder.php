@@ -1,7 +1,7 @@
 <?php
 
 
-namespace VFou\Search\Query;
+namespace saoangmo\Search\Query;
 
 
 use Exception;
