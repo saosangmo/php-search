@@ -6,7 +6,7 @@
  * Time: 12:00
  */
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 class StripTagsTokenizer implements TokenizerInterface
 {
