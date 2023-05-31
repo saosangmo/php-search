@@ -1,7 +1,7 @@
 <?php
 
 
-namespace VFou\Search\Query;
+namespace saosangmo\Search\Query;
 
 
 use RecursiveArrayIterator;
