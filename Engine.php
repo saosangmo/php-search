@@ -4,16 +4,16 @@ namespace saosangmo\Search;
 
 use DateTime;
 use Exception;
-use VFou\Search\Query\QueryBuilder;
-use VFou\Search\Services\Index;
-use VFou\Search\Tokenizers\AlphaNumericTokenizer;
-use VFou\Search\Tokenizers\DateFormatTokenizer;
-use VFou\Search\Tokenizers\DateSplitTokenizer;
-use VFou\Search\Tokenizers\LowerCaseTokenizer;
-use VFou\Search\Tokenizers\RemoveAccentsTokenizer;
-use VFou\Search\Tokenizers\singleQuoteTokenizer;
-use VFou\Search\Tokenizers\TrimPunctuationTokenizer;
-use VFou\Search\Tokenizers\WhiteSpaceTokenizer;
+use saosangmo\Search\Query\QueryBuilder;
+use saosangmo\Search\Services\Index;
+use saosangmo\Search\Tokenizers\AlphaNumericTokenizer;
+use saosangmo\Search\Tokenizers\DateFormatTokenizer;
+use saosangmo\Search\Tokenizers\DateSplitTokenizer;
+use saosangmo\Search\Tokenizers\LowerCaseTokenizer;
+use saosangmo\Search\Tokenizers\RemoveAccentsTokenizer;
+use saosangmo\Search\Tokenizers\singleQuoteTokenizer;
+use saosangmo\Search\Tokenizers\TrimPunctuationTokenizer;
+use saosangmo\Search\Tokenizers\WhiteSpaceTokenizer;
 
 class Engine
 {
