@@ -1,6 +1,6 @@
 <?php
 
-namespace VFou\Search\Services\FAL;
+namespace saosangmo\Search\Services\FAL;
 
 use Exception;
 
