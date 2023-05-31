@@ -6,7 +6,7 @@
  * Time: 08:53
  */
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 class DateFormatTokenizer implements TokenizerInterface
 {
