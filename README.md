@@ -15,7 +15,6 @@ composer require saosangmo/php-search
 
 in short :
 - indexing and searching documents (with score, fuzzy search and tokenization)
-- Stemming and stop-words of 12 supported languages
 - Faceting
 - Autocompletion
 - Connex Search
@@ -113,7 +112,7 @@ The Admin panel is a class that need to be instantiated and then run. It's not a
 ```php
 <?php
 
-use VFou\Search\AdminPanel;
+use saosangmo\Search\AdminPanel;
 
 // include the composer autoload file, modify the path if needed
 require "vendor/autoload.php";
