@@ -1,15 +1,15 @@
 <?php
 
-namespace VFou\Search\Services;
+namespace saosangmo\Search\Services;
 
 use DateTime;
 use Exception;
 use RecursiveArrayIterator;
 use RecursiveIteratorIterator;
 use Throwable;
-use VFou\Search\Query\QuerySegment;
-use VFou\Search\Services\FAL\Directory;
-use VFou\Search\Tokenizers\TokenizerInterface;
+use saosangmo\Search\Query\QuerySegment;
+use saosangmo\Search\Services\FAL\Directory;
+use saosangmo\Search\Tokenizers\TokenizerInterface;
 
 class Index
 {
