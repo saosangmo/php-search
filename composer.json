@@ -13,8 +13,8 @@
     }
   ],
   "require": {
-    "php": "^7.0",
-    "wamania/php-stemmer": "^1.2"
+    "php": "^8.0",
+    "wamania/php-stemmer": "^3.0"
   },
   "require-dev": {
   },
