@@ -1,6 +1,6 @@
 <?php
 
-namespace VFou\Search;
+namespace saosangmo\Search;
 
 use DateTime;
 use Exception;
