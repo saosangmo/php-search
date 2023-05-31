@@ -6,7 +6,7 @@
  * Time: 09:02
  */
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 
 class WhiteSpaceTokenizer implements TokenizerInterface
