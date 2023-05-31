@@ -1,12 +1,12 @@
 <?php
 
 
-namespace VFou\Search;
+namespace saosangmo\Search;
 
 
 use Exception;
-use VFou\Search\Query\QueryBuilder;
-use VFou\Search\Query\QuerySegment;
+use saosangmo\Search\Query\QueryBuilder;
+use saosangmo\Search\Query\QuerySegment;
 
 class AdminPanel
 {
