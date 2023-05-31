@@ -6,7 +6,7 @@
  * Time: 12:50
  */
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 
 class TrimPunctuationTokenizer implements TokenizerInterface
