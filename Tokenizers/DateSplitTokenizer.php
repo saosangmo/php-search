@@ -6,7 +6,7 @@
  * Time: 09:12
  */
 
-namespace VFou\Search\Tokenizers;
+namespace saosangmo\Search\Tokenizers;
 
 
 class DateSplitTokenizer implements TokenizerInterface
