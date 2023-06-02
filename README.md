@@ -1,7 +1,6 @@
 # Demo
 
-A small demo of this search engine is available [here](https://midnight-cms.com/search.php).
-This demo is made with a dataset of 1000 movies from 2006 and 2016. The results are provided as you type.
+A small demo of this search engine is available [here](https://osd.vn/search).
 
 # Installation
 
@@ -47,26 +46,14 @@ At first, you have to give to the engine something to search for. We'll create s
 ```php
 $doc = [
     "id" => 1,
-    "type" => "example-post",
-    "title" => "this is my first blog post !",
-    "content" => "I am very happy to post this first post in my blog !",
+    "type" => "product",
+    "name" => "this is my first blog post !",
+    "description" => "I am very happy to post this first post in my blog !",
     "categories" => [
         "party",
         "misc."
     ],
-    "date" => "2018/01/01",
-    "comments" => [
-        [
-            "author" => "vincent",
-            "date" => "2018/01/01",
-            "message" => "Hello world!"
-        ],
-        [
-            "author" => "someone",
-            "date" => "2018/01/02",
-            "message" => "Welcome !"
-        ]
-    ]
+    "date" => "2018/01/01"
 ];
 $engine->update($doc);
 $doc = [
