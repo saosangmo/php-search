@@ -3,7 +3,7 @@
   "type": "library",
   "description": "A Lucene-inspired PHP Search engine library",
   "keywords": [
-    "search", "php search engine",
+    "search", "php search engine"
   ],
   "license": "MIT",
   "authors": [
