@@ -3,30 +3,24 @@
   "type": "library",
   "description": "A Lucene-inspired PHP Search engine library",
   "keywords": [
-    "search", "search engine", "php"
+    "search", "php search engine",
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Vincent Foulon",
-      "email": "sup.vfoulon@gmail.com"
+      "name": "sao sang mo",
+      "email": "sao.sangmo@gmail.com"
     }
   ],
   "require": {
     "php": "^8.0"
   },
-  "require-dev": {
-  },
-  "conflict": {
-  },
   "autoload": {
     "psr-4": {
-      "VFou\\Search\\": ""
+      "saosangmo\\Search\\": ""
     }
   },
   "extra": {
     "branch-alias": null
   },
-  "support": {
-  }
 }
